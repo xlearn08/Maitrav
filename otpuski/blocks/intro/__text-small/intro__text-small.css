@@ -1,0 +1,10 @@
+.intro__text-small {
+  margin: 0;
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 18px;
+  width: 100%;
+}
